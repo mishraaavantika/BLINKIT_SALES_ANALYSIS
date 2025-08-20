@@ -10,6 +10,10 @@ This is an end-to-end data analytics project using **Excel, SQL, Python, and Pow
 4. **Power BI** – Dashboard with business insights  
 
 ## 📊 Dashboard Preview
+
+<img width="1007" height="703" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/4322f762-306b-4c84-8975-343ecfeadaae" />
+
+
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 📝 Report
