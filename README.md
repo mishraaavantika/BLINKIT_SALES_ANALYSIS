@@ -10,7 +10,7 @@ This is an end-to-end data analytics project using **Excel, SQL, Python, and Pow
 4. **Power BI** – Dashboard with business insights  
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## 📝 Report
 Full project report: [Blinkit_Analytics_Report.pdf](Blinkit_Analytics_Report.pdf)
