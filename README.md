@@ -13,7 +13,7 @@ This is an end-to-end data analytics project using **Excel, SQL, Python, and Pow
 ![Dashboard Screenshot](powerbi/dashboard_screenshot.png)
 
 ## 📝 Report
-Full project report: [Blinkit_Analytics_Report.pdf](reports/Blinkit_Analytics_Report.pdf)
+Full project report: [Blinkit_Analytics_Report.pdf](Blinkit_Analytics_Report.pdf)
 
 ## ⚙️ Tech Stack
 - Excel
@@ -30,5 +30,11 @@ Full project report: [Blinkit_Analytics_Report.pdf](reports/Blinkit_Analytics_Re
 ## 🚀 Recommendations
 - Launch loyalty program to boost retention
 - Explore bundles and cross-sell for improving AOV  
-- Improve delivery logistics in top 3 cities  
+- Improve delivery logistics in top 3 cities
+
+## 🔑 Key Learnings
+- Importance of data cleaning and standardization
+- Using SQL joins for fact-dimension analysis
+- KPI-driven decision-making
+- Dashboard storytelling with Power BI
 
