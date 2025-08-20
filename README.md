@@ -1,2 +1,3 @@
 # BLINKIT_SALES_ANALYSIS
-The analysis of the dataset of Blinkit sales -- available on Kaggle is included. This is an end-to-end data project with use of SQL, Power BI and excel. 
+This is an end-to-end data project created with the use of SQL, Power BI and MS Excel. 
+The analysis of the dataset of Blinkit sales -- available on Kaggle is done to gather isights and solve some business problems. 
