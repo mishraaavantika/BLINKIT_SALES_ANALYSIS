@@ -13,8 +13,7 @@ This is an end-to-end data analytics project using **Excel, SQL, Python, and Pow
 
 <img width="1007" height="703" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/4322f762-306b-4c84-8975-343ecfeadaae" />
 
-
-![Dashboard Screenshot](dashboard_screenshot.png)
+[Blinkit_Sales_Dashboard.pdf](Blinkit_Sales_Dashboard.pdf)
 
 ## 📝 Report
 Full project report: [Blinkit_Analytics_Report.pdf](Blinkit_Analytics_Report.pdf)
